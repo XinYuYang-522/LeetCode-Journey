@@ -23,6 +23,7 @@
 | :---: | :--- | :---: | :--- | :---: |
 | 704 | [二分查找](./01_Array/704_BinarySearch.md) | Easy | 闭区间双指针防溢出 | 🟢 First Pass |
 | 35 | [搜索插入位置](./01_Array/35_SearchInsertPosition.md) | Easy | 闭区间二分，理解循环结束时 `left` 的含义 | 🟢 First Pass |
+| 34 | [在排序数组中查找元素的第一个和最后一个位置](./01_Array/34_FindFirstAndLastPositionOfElementInSortedArray.md) | Medium | 边界压迫法，拆分左右两个二分查找函数 | 🟢 First Pass |
 
 ---
 
