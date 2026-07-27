@@ -8,7 +8,7 @@
 
 | 章节目录 | 核心算法/数据结构 | 已通关题数 | 状态 |
 | :--- | :--- | :---: | :---: |
-| [01_数组](./01_Array/) | 二分查找、双指针、滑动窗口、模拟 | 1 | 🟡 攻坚中 |
+| [01_数组](./01_Array/) | 二分查找、双指针、滑动窗口、模拟 | 6 | 🟡 攻坚中 |
 | [02_链表](./02_LinkedList/) | 单链表、双指针、环形链表 | 0 | ⚪ 未开始 |
 | [03_哈希表](./03_HashTable/) | HashMap、HashSet、数组映射 | 0 | ⚪ 未开始 |
 | [04_字符串](./04_String/) | 双指针、KMP算法 | 0 | ⚪ 未开始 |
@@ -25,6 +25,8 @@
 | 35 | [搜索插入位置](./01_Array/35_SearchInsertPosition.md) | Easy | 闭区间二分，理解循环结束时 `left` 的含义 | 🟢 First Pass |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](./01_Array/34_FindFirstAndLastPositionOfElementInSortedArray.md) | Medium | 边界压迫法，拆分左右两个二分查找函数 | 🟢 First Pass |
 | 69 | [x 的平方根](./01_Array/69_SqrtX.md) | Easy | 数值二分，防 `int` 乘法溢出与除零 Bug | 🟢 First Pass |
+| 27 | [移除元素](./01_Array/27_RemoveElement.md) | Easy | 快慢指针原地覆盖，维护有效区间 `[0, slow)` | 🟢 First Pass |
+| 26 | [删除有序数组中的重复项](./01_Array/26_RemoveDuplicatesFromSortedArray.md) | Easy | 利用有序性比较相邻元素，快慢指针原地去重 | 🟢 First Pass |
 
 ---
 
